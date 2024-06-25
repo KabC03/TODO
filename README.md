@@ -12,6 +12,19 @@
 - Map library (Finish LL first) - Map contains a vector of LL (first node directly embedded to avoid pointer dereference) allowing traversal
 
 
+Goals in order:
+
+- Finish hashmap for compiler
+- Finish datastructures for compiler
+- Finish I/O in C++ for MLP
+- Finish MLP
+- Tokeniser
+- Arbitrary precision library in C
+- Parser
+- IR generator
+- Assembler
+- Organise all libraries into one repo
+
 
 
 
