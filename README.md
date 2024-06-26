@@ -15,9 +15,9 @@
 
 Goals in order:
 
-- Finish hashmap for compiler
-- Finish datastructures for compiler
-- Finish I/O in C++ for MLP
+- Heap allocator
+- Finish datastructures for compiler (LL, Queue, Priority Queue)
+- Finish I/O in C++ or bash for MLP
 - Finish MLP
 - Tokeniser
 - Arbitrary precision library in C
