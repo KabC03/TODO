@@ -10,6 +10,7 @@
   - If asked for some other pattern recognition task call the MLP
 - BMP photo editor?
 - Map library (Finish LL first) - Map contains a vector of LL (first node directly embedded to avoid pointer dereference) allowing traversal
+- Make a malloc?
 
 
 Goals in order:
