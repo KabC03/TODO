@@ -24,6 +24,7 @@ Goals in order:
 - IR generator
 - Assembler
 - Organise all libraries into one repo
+- Check for malloc multiplication overflow in all libraries
 
 
 
