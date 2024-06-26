@@ -25,6 +25,7 @@ Goals in order:
 - Assembler
 - Organise all libraries into one repo
 - Check for malloc multiplication overflow in all libraries
+- Resizing hash table
 
 
 
