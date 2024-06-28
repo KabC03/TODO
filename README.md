@@ -1,9 +1,7 @@
 # TODO
 
-- Matrix library
 - Generic datastructures library (stacks, queues, LL, tree)
 - Compiler
-- Pool allocactor
 - Game engine?????
 - Neural network
   - Talk to the RNN, if asking for image recognition call the CNN to do image recognition
@@ -15,7 +13,6 @@
 
 Goals in order:
 
-- Heap allocator
 - Finish datastructures for compiler (LL, Queue, Priority Queue)
 - Finish I/O in C++ or bash for MLP
 - Finish MLP
